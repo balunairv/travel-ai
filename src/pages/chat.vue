@@ -118,7 +118,7 @@
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
-          'Authorization': 'Bearer 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', // 👈 Replace with your real API key
+          'Authorization': 'Bearer kmdkdkmdkmd', // 👈 Replace with your real API key
         },
         body: JSON.stringify({
           model: 'llama3-8b-8192',
