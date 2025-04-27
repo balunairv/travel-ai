@@ -10,7 +10,7 @@ export default defineConfig({
     vue(),
     vueDevTools(),
   ],
-  base: '/travel-ai/',
+  // base: '/travel-ai/',
   resolve: {
     alias: {
       '@': fileURLToPath(new URL('./src', import.meta.url))
